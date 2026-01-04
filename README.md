@@ -11,7 +11,7 @@ uv run python -m game_ai.main
 
 ---
 
-## 7️⃣ Why This Looks VERY Good to upliance.ai
+## Why This Looks VERY Good to upliance.ai
 
 - Uses **modern Python tooling (uv)**
 - Explicit **state management**
@@ -20,7 +20,7 @@ uv run python -m game_ai.main
 
 ---
 
-##Future Improvements
+## Future Improvements
 - Convert this to **pure ADK function-calling loop**
 - Add **structured JSON outputs**
 - Add **tests**
