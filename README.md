@@ -7,7 +7,7 @@ This project implements an AI Game Referee for Rock–Paper–Scissors–Plus. T
 uv venv
 uv sync
 uv run python -m game_ai.main
-
+```
 
 ---
 
