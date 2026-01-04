@@ -1,4 +1,4 @@
-## Running the Project (uv)
+<img width="686" height="518" alt="Screenshot 2026-01-05 at 2 18 21 AM" src="https://github.com/user-attachments/assets/73adc8d6-2423-4ee8-b610-1ba8f97c26a7" />## Running the Project (uv)
 
 ## Overview
 This project implements an AI Game Referee for Rock–Paper–Scissors–Plus. The referee enforces rules, maintains game state, and interacts with players using an agent-based architecture. The system is modular, easy to extend, and designed to run inside a Python package with uv for dependency and environment management.
@@ -24,5 +24,17 @@ uv run python -m game_ai.main
 - Convert this to **pure ADK function-calling loop**
 - Add **structured JSON outputs**
 - Add **tests**
-- Help you write a **perfect submission message to upliance.ai** 
+- Help you write a **perfect submission message to upliance.ai**
+
+  
+## Outputs
+<img width="1231" height="447" alt="Screenshot 2026-01-05 at 2 17 06 AM" src="https://github.com/user-attachments/assets/3712e426-0f7f-4220-86f5-ac3d0a1c98ff" />
+
+---
+
+<img width="726" height="476" alt="Screenshot 2026-01-05 at 2 17 40 AM" src="https://github.com/user-attachments/assets/109780eb-1eca-4e3a-923f-61eba8ca528e" />
+
+---
+
+<img width="1282" height="503" alt="Screenshot 2026-01-05 at 2 18 34 AM" src="https://github.com/user-attachments/assets/db5af916-6745-48a6-8f72-0bb95856b344" />
 
