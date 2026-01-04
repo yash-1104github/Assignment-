@@ -1,0 +1,16 @@
+[project]
+name = "ai-game-referee"
+version = "0.1.0"
+description = "AI Referee for Rock Paper Scissors Plus using Google ADK"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=1.21.0",
+    "dotenv>=0.9.9",
+    "google-genai>=1.56.0",
+    "google-generativeai>=0.8.6",
+    "pydantic>=2.0",
+]
+
+[dependency-groups]
+dev = []
